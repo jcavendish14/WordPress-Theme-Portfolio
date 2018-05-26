@@ -1,0 +1,18 @@
+/*
+Theme Name: Portfolio
+Author: Jesse Cavendish
+Description: The first theme for my portfolio website
+Version: 1.0
+Tags: bootstrap, portfolio
+*/
+
+html, body {
+  height: 100%;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.cover {
+  padding: 1.5rem;
+  width: 100%;
+  background-color: white;
+}
